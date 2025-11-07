@@ -36,7 +36,8 @@ During this internship, **Rekha Chowdary Kommineni** successfully completed the 
 
 ## 🏅 Certificate Details
 **Certificate ID:** SISFVIPAD2022-35203  
-**Verification Link:** [View Official Certificate](https://drive.google.com/file/d/1F4H7cRg1f3X4FYSYwksUwUEH3HhIdBip/view?usp=drive_link)
+**Verification Link:** [View Official Certificate (Google Drive)](https://drive.google.com/file/d/1F4H7cRg1f3X4FYSYwksUwUEH3HhIdBip/view?usp=drive_link)  
+**Official Verification (SmartInternz):** [Verify on SmartInternz](https://smartinternz.com/internships/salesforce_certificates/8c19c8f5a3b029dbbb74fa00624201ed)
 
 ---
 
